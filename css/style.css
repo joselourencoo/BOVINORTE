@@ -423,3 +423,25 @@ header .hero-heading .bl {bottom: -40px;height: 25px;}
 .subscribe-form input::-webkit-input-placeholder{color: #333;}
 
 .subscribe-form .button-subscribe{margin:0;padding: 14px 25px;width: auto}
+
+
+
+.buttonzap{
+	position: fixed;
+	width: 60px;
+	height: 60px;
+	bottom: 40px;
+	right: 40px;
+	background-color: green;
+	color: #fff;
+	border-radius: 50px;
+	text-align: center;
+	font-size: 30px;
+	box-shadow: 1px 1px 2px #888;
+	z-index: 1000;
+}
+
+.fa-whatsapp{
+	color: white;
+	margin-top: 16px;
+}
